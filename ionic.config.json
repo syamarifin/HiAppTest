@@ -1,0 +1,7 @@
+{
+  "name": "HiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
